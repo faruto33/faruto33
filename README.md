@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Farid Machrou</h1>
-<h3 align="center">A passionate data scientist</h3>
+<h3 align="center"><p>I left my forever company after 20 years of good and loyal service, ready to tackle a new challenge!</p>
+<p>
+I have started as internship member in 2003, in a small start up which have grown up to a 2 millions turn over company, as web developper and database administrator. I have enhanced my skills and experiences, became an international project manager, and finally refocused on a full data engineer role.
+</p>
+<p>
+I have always been passionate about providing technical solutions for people responding to issues that seem unsolvable.
+</p>
+<p>
+Because the start of everything is always about telling yourself that it’s possible!</p></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
